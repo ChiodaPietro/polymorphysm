@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dff80b0-d941-49fa-8210-054c4584f126" name="Changes" comment="polymorphysm">
-      <change afterPath="$PROJECT_DIR$/src/Genre/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Genre/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Genre/PrintInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Genre/PrintString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Genre/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1dff80b0-d941-49fa-8210-054c4584f126" name="Changes" comment="Generics in java">
+      <change beforePath="$PROJECT_DIR$/src/Genre/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Genre/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673943696673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Generics in java">
+      <created>1673945130304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673945130304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="polymorphysm" />
-    <option name="LAST_COMMIT_MESSAGE" value="polymorphysm" />
+    <MESSAGE value="Generics in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics in java" />
   </component>
 </project>

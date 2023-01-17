@@ -1,5 +1,9 @@
 package Genre;
 
+// final in a variable is a constant
+// final in a class, it can't be extended
+// final in a method, it can't change, can't override
+
 public class Main {
     public static void main(String[] args) {
         PrintString ps= new PrintString("hiiii");
